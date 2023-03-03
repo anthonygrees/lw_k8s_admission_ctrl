@@ -1,5 +1,7 @@
 # Lacework Kubernetes Admission Controller
-
+  
+![K8s](/images/diagram.png)
+  
 ## Purpose
 
 Provide a quick workshop to understand how to use the K8s AC with the Lacework platform.
